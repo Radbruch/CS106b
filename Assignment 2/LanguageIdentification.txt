@@ -1,0 +1,16 @@
+My tool says that the language of...
+
+... Passage  1 is __Mongolian__,
+... Passage  2 is __Korean__,
+... Passage  3 is __Hawaiian__,
+... Passage  4 is __Swahili__,
+... Passage  5 is __Chinese__,
+... Passage  6 is __Georgian__,
+... Passage  7 is __Cherokee__,
+... Passage  8 is _Arabic___,
+... Passage  9 is __Twi__,
+... Passage 10 is _Punjabi___,
+... Passage 11 is __English__,
+... Passage 12 is _Hausa___,
+... Passage 13 is __Ibibio__, and
+... Passage 14 is __Latvian__.
